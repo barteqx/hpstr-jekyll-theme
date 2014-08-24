@@ -1,23 +1,23 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            zasieczny.com
+description:      Deiscovering C++
+disqus_shortname: zasieczny
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://zasieczny.com
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
+  name:           Bartosz Robert Zasieczny
+  avatar:
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          barteqx@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
+  twitter:   https://twitter.com/barteqx    
+  facebook:  https://www.facebook.com/bartosz.zasieczny  
+  github:    https://github.com/Siekacz
+  stackexchange:  http://stackoverflow.com/users/1666315/siekacz
+  linkedin:  https://www.linkedin.com/profile/view?id=152063778     
   instagram:      
   flickr:         
   tumblr:         
